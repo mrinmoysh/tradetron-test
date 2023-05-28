@@ -13,7 +13,7 @@ This is a React Native application that displays summary information and a list 
 1. Make sure you have Node.js and npm installed on your machine.
 2. Clone this repository.
 3. Navigate to the project directory.
-4. Install the dependencies by running the following command: npm install
+4. Install the dependencies by running the following command: `npm install`
 5. Start the application android with the following command: `npx react-native run-android`
 6. Start the application ios with the following command: `npx react-native run-ios`
 7. Follow the instructions in the terminal to launch the app on your desired device or simulator.
