@@ -2,6 +2,8 @@
 
 This is a React Native application that displays summary information and a list of companies with their details. The summary card shows overall information, including the heading, type, capital, value, and PNL. The company list displays individual company details, including the name, type, value, and PNL.
 
+![Demo GIF](./summarygif.gif)
+
 ## Features
 
 - Summary card displaying overall information
